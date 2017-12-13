@@ -1,3 +1,7 @@
+# Why we fork this
+
+https://github.com/bevacqua/dragula/pull/461 < that pull request basically. At this point in time (13 December 2017) we have a requirement in guidelines to make the images in an image widget draggable across a grid. After this pr that becomes possible and all is good in the world. Dragula has been inactive for 6 months, but we still love it, so we decide to fork. Any future updates to the library should be merged into this fork, unless if that pr (or a similar one) ever gets merged, when we can switch back over to the original. 
+
 [![logo.png][3]][2]
 
 [![Travis CI][5]][4] [![Slack Status][17]][18] [![Support](https://supporter.60devs.com/api/b/f4co3kmopd9mngbzjgn6ymbug)](https://supporter.60devs.com/give/f4co3kmopd9mngbzjgn6ymbug) [![Patreon][19]][20]
