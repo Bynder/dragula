@@ -1,5 +1,8 @@
 {
-  "name": "dragula",
+  "name": "@bynder-private/dragula",
+  "publishConfig": {
+    "registry": "http://verdaccio.bynder.io:8080"
+  },
   "version": "3.7.2",
   "description": "Drag and drop so simple it hurts",
   "main": "dragula.js",
